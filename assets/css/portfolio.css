@@ -720,7 +720,7 @@ button.main-button:hover {
   }
   .welcome-area .header-text h1 {
     font-weight: 400;
-    font-size: 40vh;
+    font-size: 40px;
     line-height: 65px;
     margin-bottom: 30px;
   }
@@ -1076,6 +1076,18 @@ button.main-button:hover {
 .counter .content .count-item:hover strong {
   transform: translateY(-20px);
 }
+.counter .content .count-item span
+ {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.counter .content .count-item:hover span{
+  transform: translateY(-20px);
+}
+
+
 
 .counter .content .count-item span {
   display: block;
