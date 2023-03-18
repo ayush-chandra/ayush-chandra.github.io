@@ -8,6 +8,8 @@ Thanks : [Keep a Changelog](http://keepachangelog.com/) and [Semantic Versioning
 
 ## [1.0.2] - 2023-03-18
 
+### Updated
+
 12. Updated Changelog
 
 ## [1.0.1] - 2023-03-18
